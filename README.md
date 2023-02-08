@@ -8,7 +8,8 @@ Tus tareas consisten en:
 ### Miguel Ángel Carrasco Infante
 <img src='C:\Users\migue\Downloads' width='200px'>
 
-Alumno de ingenieria informática.
+Alumno de ingenieria informática
+![FER_23_18158](https://user-images.githubusercontent.com/124813808/217621842-62908fff-3197-4e6d-a7b9-329bff9cf16a.JPG)
 * **Correo**: maci0002@red.ujaen.es
 * **GitHub**: https://github.com/maci0002
 * **Trello**: https://trello.com/u/miguelangelcarrascoinfante1
