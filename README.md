@@ -12,7 +12,7 @@ Alumno de ingenieria informática
 * **Correo**: maci0002@red.ujaen.es
 * **GitHub**: https://github.com/maci0002
 * Usuario: maci0002
-* 
+* <img src='/perfil_github.png' width='1000px'>
 * **Trello**: https://trello.com/u/miguelangelcarrascoinfante1
 * **Tablero de trello**:
 https://trello.com/invite/b/Y25iwjG9/ATTI1b888ae01c1b045bc7f7a2672c2e14f26905B6A0/practica-1-da
