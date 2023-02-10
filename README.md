@@ -17,4 +17,6 @@ Alumno de ingenieria informática
 * **Tablero de trello**:
 https://trello.com/invite/b/Y25iwjG9/ATTI1b888ae01c1b045bc7f7a2672c2e14f26905B6A0/practica-1-da
 <img src='/tablero de trello.png' width='1000px'>
+Tablero finalizado:
+<img src='/tablero_terminado.png' width='1000px'>
 
